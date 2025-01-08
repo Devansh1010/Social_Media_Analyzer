@@ -46,5 +46,5 @@ This tool is **strictly limited** to its intended functionality of engagement an
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone [https://github.com/your-username/Social_Media_Analyzer.git](https://github.com/Devansh1010/Social_Media_Analyzer)
+   git clone [https://github.com/your-username/Social_Media_Analyzer.git]
    cd Social_Media_Analyzer
